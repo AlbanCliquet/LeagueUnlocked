@@ -19,6 +19,15 @@
 
 ---
 
+## 📦 **Get Started**
+
+1. **Download** the installer
+2. **Run as Administrator** - One-time setup
+3. **Enter your license key** - Secure activation -> To get a free key for the Alpha: [Join our Discord server!](https://discord.gg/cDepnwVS8Z)
+4. **Start playing** - Enjoy every skin instantly!
+
+---
+
 ## 🎯 **What You Gain**
 
 - **🎨 Every Skin Instantly** - Access to all skins for all champions
@@ -34,15 +43,6 @@
 **Imagine this:** You're in champion select, hovering over skins. LeagueUnlocked detects what you're looking at and automatically prepares it for injection. When you lock in your champion, your chosen skin loads seamlessly - as if you actually owned it.
 
 **No downloads, no waiting, no complexity.** Just pure, instant access to every skin in the game.
-
----
-
-## 📦 **Get Started**
-
-1. **Download** the installer
-2. **Run as Administrator** - One-time setup
-3. **Enter your license key** - Secure activation -> To get a free key for the Alpha: [Join our Discord server!](https://discord.gg/cDepnwVS8Z)
-4. **Start playing** - Enjoy every skin instantly!
 
 ---
 
