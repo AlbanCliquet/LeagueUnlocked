@@ -23,7 +23,7 @@
 
 1. **Download** the [installer](https://github.com/AlbanCliquet/LeagueUnlockedReleases/releases/tag/Alpha) 
 2. **Run as Administrator** - One-time setup
-3. **Enter your license key** - Secure activation -> To get a free key for the Alpha: [Join our Discord server!](https://discord.gg/cDepnwVS8Z)
+3. **Enter your license key** - Secure activation -> To get a free key for the Alpha: [Join our Discord server!](https://discord.gg/hqFu5CjaKu)
 4. **Start playing** - Enjoy every skin instantly!
 
 ---
