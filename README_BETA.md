@@ -28,8 +28,13 @@
 
 - **🎨 Every Skin Instantly** - Access to all skins for all champions
 - **🌈 Chroma Selection** - Improved League's native UI to choose any chroma variant
-- **🌍 Works in Any Language** - All languages supported (except Greek, coming soon)
+- **🌍 Works in Any Language** - All languages supported (no exception)
+- **🎲 Random Skin Feature** - You can activate random skin injection
 - **✅ Smart & Safe** - Never injects skins you already own and uses safe CS-LoL software for injection
+- **✨ Complex Skins Supported** - Special System to chose any complex skin (examples below)
+
+![Elementalist Lux](./screenshots/elementalist_lux.png)
+![Immortal Legends](./screenshots/immortal_ahri.png)
 
 ---
 
@@ -39,15 +44,17 @@
 
 **No downloads, no waiting, no complexity.** Just pure, instant access to every skin in the game.
 
+We are using our [own skins database](https://github.com/AlbanCliquet/lolskins), making us autonomous and able to quickly react to any problem you might encounter!
+
 ---
 
 ## 🎯 **Ready to Transform Your League Experience?**
 
 **Download League Unlocked today and transform your League of Legends experience!**
 
-1. **Download** the [installer](https://github.com/AlbanCliquet/LeagueUnlockedReleases/releases/tag/Alpha)
+1. **Download** the [installer](https://github.com/AlbanCliquet/LeagueUnlockedReleases/releases/tag/Beta)
 2. **Run as Administrator** - One-time setup
-3. **Enter your license key** - Secure activation -> To get a free key for the Alpha: [Join our Discord server!](https://discord.com/invite/cDepnwVS8Z)
+3. **Enter your license key** - Secure activation -> To get a free key for the Beta: [Join our Discord server!](https://discord.com/invite/cDepnwVS8Z)
 4. **Start playing** - Enjoy every skin instantly!
 
 
