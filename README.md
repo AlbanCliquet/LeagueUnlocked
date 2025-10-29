@@ -1,7 +1,7 @@
-# 🔓 League Unlocked - Seamless Automatic Skin Changer
+# 🔓 LeagueUnlocked - Seamless Automatic Skin Changer
 
 <div align="center">
-  <img src="./assets/icon.png" alt="League Unlocked Icon" width="128" height="128">
+  <img src="./assets/icon.png" alt="LeagueUnlocked Icon" width="128" height="128">
   
   [![Installer](https://img.shields.io/badge/Installer-Windows-blue)](https://github.com/AlbanCliquet/LeagueUnlockedReleases/releases/latest)
   [![Discord](https://img.shields.io/discord/1426680928759189545?color=5865F2&logo=discord&logoColor=white&label=Discord)](https://discord.com/invite/cDepnwVS8Z)
@@ -11,7 +11,7 @@
 
 ## ✨ What You Get
 
-**League Unlocked automatically gives you access to every skin in League of Legends - instantly, effortlessly, and safely.**
+**LeagueUnlocked automatically gives you access to every skin in League of Legends - instantly, effortlessly, and safely.**
 
 ### **The Experience**
 
@@ -40,7 +40,7 @@
 
 ## 🎮 **The Magic**
 
-**Imagine this:** You're in champion select, hovering over skins. League Unlocked detects what you're looking at and automatically prepares it for injection. When game starts, your chosen skin loads seamlessly - as if you actually owned it.
+**Imagine this:** You're in champion select, hovering over skins. LeagueUnlocked detects what you're looking at and automatically prepares it for injection. When game starts, your chosen skin loads seamlessly - as if you actually owned it.
 
 **No downloads, no waiting, no complexity.** Just pure, instant access to every skin in the game.
 
@@ -50,7 +50,7 @@ We are using our [own skins database](https://github.com/AlbanCliquet/lolskins),
 
 ## 🎯 **Ready to Transform Your League Experience?**
 
-**Download League Unlocked today and transform your League of Legends experience!**
+**Download LeagueUnlocked today and transform your League of Legends experience!**
 
 1. **Download** the [installer](https://github.com/AlbanCliquet/LeagueUnlockedReleases/releases/latest)
 2. **Run as Administrator** - One-time setup
@@ -73,4 +73,4 @@ Custom skins are allowed under Riot's terms of service and do not trigger detect
 
 ---
 
-**League Unlocked** - _League, unlocked._
+**LeagueUnlocked** - _League, unlocked._
