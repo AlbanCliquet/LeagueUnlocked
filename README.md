@@ -44,7 +44,7 @@
 
 **No downloads, no waiting, no complexity.** Just pure, instant access to every skin in the game.
 
-We are using our [own skins database](https://github.com/AlbanCliquet/lolskins), making us autonomous and able to quickly react to any problem you might encounter!
+We are using our [own skins database](https://github.com/AlbanCliquet/LeagueSkins), making us autonomous and able to quickly react to any problem you might encounter!
 
 ---
 
