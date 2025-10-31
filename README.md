@@ -31,6 +31,7 @@
 - **Works in Any Language** - All languages supported (no exception)
 - **Random Skin Feature** - You can activate random skin injection
 - **Smart & Safe** - Never injects skins you already own and uses safe CS-LoL software for injection
+- **Last Skin re-injection** - Automatically prepare to inject last injected skin for more enjoyable long sessions
 - **Complex Skins Supported** - Special System to chose any complex skin (examples below)
 
 ![Elementalist Lux](./assets/elementalist_lux.png)
