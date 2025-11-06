@@ -8,7 +8,7 @@
   
   ### **✅ FULLY COMPATIBLE WITH LATEST VANGUARD UPDATE ✅**
   
-  **LeagueUnlocked works seamlessly with Riot's anti-cheat system - no compatibility issues!**
+  **LeagueUnlocked works seamlessly with Riot's anti-cheat system - no compatibility issues!** 
 </div>
 
 ---
