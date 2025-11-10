@@ -3,7 +3,7 @@
 <div align="center">
   <img src="./assets/icon.png" alt="LeagueUnlocked Icon" width="128" height="128">
   
-  [![Installer](https://img.shields.io/badge/Installer-Windows-blue)](https://github.com/AlbanCliquet/LeagueUnlocked/releases/latest)
+  [![Installer](https://img.shields.io/badge/Installer-Windows-blue)](https://github.com/Alban1911/LeagueUnlocked/releases/latest)
   [![Discord](https://img.shields.io/discord/1426680928759189545?color=5865F2&logo=discord&logoColor=white&label=Discord)](https://discord.com/invite/cDepnwVS8Z)
   
   ### **✅ FULLY COMPATIBLE WITH LATEST VANGUARD UPDATE ✅**
@@ -49,7 +49,7 @@
 
 **No downloads, no waiting, no complexity.** Just pure, instant access to every skin in the game.
 
-We are using our [own skins database](https://github.com/AlbanCliquet/LeagueSkins), making us autonomous and able to quickly react to any problem you might encounter!
+We are using our [own skins database](https://github.com/Alban1911/LeagueSkins), making us autonomous and able to quickly react to any problem you might encounter!
 
 ---
 
@@ -57,7 +57,7 @@ We are using our [own skins database](https://github.com/AlbanCliquet/LeagueSkin
 
 **Download LeagueUnlocked today and transform your League of Legends experience!**
 
-1. **Download** the [installer](https://github.com/AlbanCliquet/LeagueUnlockedReleases/releases/latest)
+1. **Download** the [installer](https://github.com/Alban1911/LeagueUnlockedReleases/releases/latest)
 2. **Run as Administrator** - One-time setup
 3. **Enter your license key** - Secure activation -> To get a free key for the Beta: [Join our Discord server!](https://discord.com/invite/cDepnwVS8Z)
 4. **Start playing** - Enjoy every skin instantly!
